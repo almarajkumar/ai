@@ -1,0 +1,143 @@
+[
+    {
+        "image": "illustrations/3d-min.png",
+        "title": "3D Toon",
+        "repo": "goofyai/3d_render_style_xl",
+        "trigger_word": "3d style",
+        "weights": "3d_render_style_xl.safetensors",
+        "is_compatible": true,
+        "likes": 39,
+        "downloads": 0
+    },
+    {
+        "image": "illustrations/tintin-min.png",
+        "title": "Linge Claire",
+        "repo": "Pclanglais/TintinIA",
+        "trigger_word": "drawing of tintin",
+        "weights": "pytorch_lora_weights.safetensors",
+        "is_compatible": true,
+        "is_nc": true,
+        "likes": 11,
+        "downloads": 0
+    },
+    {
+        "image": "illustrations/crayion-min.png",
+        "title": "Crayon",
+        "repo": "ostris/crayon_style_lora_sdxl",
+        "trigger_word": "",
+        "weights": "crayons_v1_sdxl.safetensors",
+        "is_compatible": true,
+        "likes": 12,
+        "downloads": 0
+    },
+    {
+        "image": "illustrations/3d-min.png",
+        "title": "Blondie",
+        "repo": "goofyai/3d_render_style_xl",
+        "trigger_word": "3d style",
+        "weights": "3d_render_style_xl.safetensors",
+        "is_compatible": true,
+        "likes": 39,
+        "downloads": 0
+    },
+    {
+        "repo": "ProomptEngineer/pe-sandsculpter-style",
+        "title": "Sand Art",
+        "trigger_word": "PESandSculpture",
+        "is_compatible": true,
+        "image": "illustrations/sand-min.png",
+        "weights": "PE_SandSculpture.safetensors",
+        "likes": 1,
+        "downloads": 0
+    },
+    {
+        "repo": "ProomptEngineer/pe-shitty-medieval-paintings",
+        "title": "Medieval",
+        "trigger_word": "PEBadMedivalArt",
+        "is_compatible": true,
+        "image": "illustrations/medieval-min.png",
+        "weights": "PE_BadMedivalArt.safetensors",
+        "likes": 1,
+        "downloads": 0
+    },
+    {
+        "repo": "KappaNeuro/ukiyo-e-art",
+        "title": "Ukyio-e Art",
+        "trigger_word": "Ukiyo-e Art",
+        "is_compatible": true,
+        "image": "illustrations/ukiyoe-min.png",
+        "weights": "Ukiyo-e Art.safetensors",
+        "likes": 1,
+        "downloads": 0
+    },
+    {
+        "image": "illustrations/psychedelic-min.png",
+        "title": "Pyschedelic",
+        "repo": "Norod78/SDXL-Psychemelt-style-LoRA",
+        "trigger_word": "psychemelt style, in an LSD trip psychemelt style",
+        "weights": "SDXL_Psychemelt_style_LoRA-000007.safetensors",
+        "is_compatible": true,
+        "likes": 2,
+        "downloads": 140
+    },
+    {
+        "image": "illustrations/chalkboard-min.png",
+        "title": "Chalkart",
+        "repo": "Norod78/sdxl-chalkboarddrawing-lora",
+        "trigger_word": null,
+        "weights": "SDXL_ChalkBoardDrawing_LoRA_r8.safetensors",
+        "is_compatible": true,
+        "likes": 2,
+        "downloads": 200
+    },
+    {
+        "image": "illustrations/jojoso-min.png",
+        "title": "Shonenjump",
+        "repo": "Norod78/SDXL-JojosoStyle-Lora-v2",
+        "trigger_word": "Jojosostyle",
+        "weights": "SDXL-JojosoStyle-Lora-v2-r16.safetensors",
+        "is_compatible": true,
+        "likes": 3,
+        "downloads": 88
+    },
+    {
+      "image": "illustrations/pixelart-min.png",
+      "title": "Pixelated",
+      "repo": "nerijs/pixelportraits192-XL-v1.0",
+      "trigger_word": "",
+      "weights": "pixelportraits192-v1-2151.safetensors",
+      "is_compatible": true,
+      "likes": 2,
+      "downloads": 75
+    },
+    {
+      "image":"illustrations/ps1-min.png",
+      "title": "Miami",
+      "repo": "artificialguybr/ps1redmond-ps1-game-graphics-lora-for-sdxl",
+      "trigger_word": "playstation 1 graphics, PS1 Game,",
+      "weights": "PS1Redmond-PS1Game-Playstation1Graphics.safetensors",
+      "is_compatible": true,
+      "likes": 9,
+      "downloads": 4152
+    },
+    {
+      "repo": "multimodalart/handpaintedbrazil",
+      "title": "Streetart",
+      "image": "illustrations/handpainted-min.png",
+      "trigger_word": "in the style of <s0><s1>",
+      "weights": "pytorch_lora_weights.safetensors",
+      "is_compatible": true,
+      "likes": 9,
+      "downloads": 155
+    },
+    {
+        "image": "illustrations/3d-min.png",
+        "title": "3D Cartton",
+        "repo": "goofyai/3d_render_style_xl",
+        "trigger_word": "3d style",
+        "weights": "3d_render_style_xl.safetensors",
+        "is_compatible": true,
+        "likes": 39,
+        "downloads": 0
+    }
+]
