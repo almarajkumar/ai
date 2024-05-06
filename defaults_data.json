@@ -1,0 +1,160 @@
+[
+  {
+    "model": "goofyai/3d_render_style_xl",
+    "prompt": "<subject> Pixar 3d, cartoon 3d",
+    "nickname": "3D Toon",
+    "weight": 0.9,
+    "face_strength": 0.3,
+    "image_strength": 0.15,
+    "guidance_scale": 7,
+    "depth_control_scale": 0.8,
+    "style_index": 0
+  },
+  {
+    "model": "Pclanglais/TintinIA",
+    "prompt": "drawing of <subject> in tintin++ style",
+    "face_strength": 0.26,
+    "image_strength": 0.11,
+    "negative": "realistic, portrait",
+    "weight": 0.9,
+    "depth_control_scale": 0.8,
+    "guidance_scale": 7,
+    "nickname": "Linge Claire",
+    "style_index": 1
+  },
+  {
+    "model": "ostris/crayon_style_lora_sdxl",
+    "prompt": "<subject> crayon art, beautiful face, white paper, brightness",
+    "face_strength": 0.37,
+    "image_strength": 0.15,
+    "negative": "realistic, portrait, 3d, blurry, grainy, over saturated, unfocused, bad fingers, text, numbers, watermark, nsfw, bad eyes, nude, naked, low quality, Pixelated, bad fingers, teeth, realistic, saturation",
+    "weight": 0.9,
+    "depth_control_scale": 0.8,
+    "guidance_scale": 7,
+    "nickname": "Crayon",
+    "style_index": 2
+  },
+  {
+    "model": "goofyai/3d_render_style_xl",
+    "prompt": "<subject> Barbie doll, Blondie",
+    "nickname": "Blondie",
+    "weight": 0.9,
+    "face_strength": 0.85,
+    "image_strength": 0.15,
+    "guidance_scale": 7,
+    "depth_control_scale": 0.8,
+    "style_index": 3
+  },
+  {
+    "model": "ProomptEngineer/pe-sandsculpter-style",
+    "prompt": "a sand sculpture of <subject>, PESandSculpture",
+    "face_strength": 0.5,
+    "image_strength": 0.15,
+    "weight": 1.4,
+    "depth_control_scale": 0.5,
+    "guidance_scale": 7,
+    "nickname": "Sand Art",
+    "style_index": 4
+  },
+  {
+    "model": "ProomptEngineer/pe-shitty-medieval-paintings",
+    "prompt": "gothic background in the style of bad medieval art, PEBadMedivalArt",
+    "negative": "portrait, 3d",
+    "face_strength": 0.63,
+    "image_strength": 0.1,
+    "weight": 1.4,
+    "guidance_scale": 7,
+    "depth_control_scale": 0.5,
+    "nickname": "Medieval",
+    "style_index": 5
+  },
+  {
+    "model": "KappaNeuro/ukiyo-e-art",
+    "prompt": "an illustration of <subject> in Ukiyo-e Art style",
+    "face_strength": 0.41,
+    "image_strength": 0,
+    "negative": "realistic, portrait, 3d",
+    "weight": 0.8,
+    "depth_control_scale": 0.5,
+    "guidance_scale": 7,
+    "nickname": "Ukiyo-e Art",
+    "style_index": 6
+  },
+  {
+    "model": "Norod78/SDXL-Psychemelt-style-LoRA",
+    "prompt": "a drawing of <subject> psychemelt style, in an LSD trip psychemelt style",
+    "face_strength": 0.56,
+    "image_strength": 0.1,
+    "weight": 0.9,
+    "depth_control_scale": 0.5,
+    "guidance_scale": 7,
+    "nickname": "Pyschedelic",
+    "style_index": 7
+  },
+  {
+    "model": "Norod78/sdxl-chalkboarddrawing-lora",
+    "prompt": "A colorful chalkboard drawing of <subject>",
+    "nickname": "Chalk Art",
+    "face_strength": 0.85,
+    "image_strength": 0.15,
+    "weight": 0.9,
+    "depth_control_scale": 0.8,
+    "guidance_scale": 7,
+    "style_index": 8
+  },
+  {
+    "model": "Norod78/SDXL-JojosoStyle-Lora-v2",
+    "prompt": "<subject> jojo anime style, shenon jump style, shenon in the background",
+    "nickname": "Shonen Jump",
+    "face_strength": 0.85,
+    "image_strength": 0.15,
+    "weight": 0.9,
+    "depth_control_scale": 0.8,
+    "guidance_scale": 7,
+    "style_index": 9
+  },
+  {
+    "model": "nerijs/pixelportraits192-XL-v1.0",
+    "prompt": "a pixel art portrait of <subject>",
+    "nickname": "Pixelated",
+    "face_strength": 0.9,
+    "image_strength": 0.4,
+    "weight": 0.9,
+    "depth_control_scale": 0.8,
+    "guidance_scale": 7,
+    "style_index": 10
+  },
+  {
+    "model": "artificialguybr/ps1redmond-ps1-game-graphics-lora-for-sdxl",
+    "prompt": "<subject>, GTA vice city (playstation 1 graphics, PS1 Game)++",
+    "face_strength": 0.7,
+    "image_strength": 0.1,
+    "weight": 0.9,
+    "depth_control_scale": 0.5,
+    "guidance_scale": 7,
+    "nickname": "Miami",
+    "style_index": 11
+  },
+  {
+    "model": "multimodalart/handpaintedbrazil",
+    "prompt": "drawing of <subject> on a wall in the style of graffiti, Wall paint",
+    "face_strength": 0.7,
+    "image_strength": 0,
+    "weight": 1.2,
+    "depth_control_scale": 0,
+    "guidance_scale": 7,
+    "nickname": "Streetart",
+    "style_index": 12
+  },
+  {
+    "model": "goofyai/3d_render_style_xl",
+    "prompt": "<subject> Chibi 3d",
+    "nickname": "3D Cartoon",
+    "weight": 0.9,
+    "face_strength": 0.35,
+    "image_strength": 0,
+    "guidance_scale": 7,
+    "depth_control_scale": 0.8,
+    "style_index": 13
+  }
+]
